@@ -1,0 +1,10 @@
+earthquake 지진
+flood 홍수
+tornado 토네이도
+dust storm 황사
+avalanche 눈사태
+tsunami 쓰나미
+volcanic eruption 화산 폭발
+hurricane 허리케인
+conversation 대화
+vacation 방학

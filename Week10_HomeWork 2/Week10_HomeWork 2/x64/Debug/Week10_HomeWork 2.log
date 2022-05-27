@@ -1,0 +1,8 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\guswl\source\repos\Week10_HomeWork 2\Week10_HomeWork 2\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00CC'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\guswl\source\repos\Week10_HomeWork 2\Week10_HomeWork 2\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00C0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\guswl\source\repos\Week10_HomeWork 2\Week10_HomeWork 2\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00CE'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\guswl\source\repos\Week10_HomeWork 2\Week10_HomeWork 2\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00F9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\guswl\source\repos\Week10_HomeWork 2\Week10_HomeWork 2\Human.h(8,50): warning C4566: 유니버설 문자 이름 '\u00CF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\guswl\source\repos\Week10_HomeWork 2\Week10_HomeWork 2\MonsterWorldGame.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Week10_HomeWork 2.vcxproj -> C:\Users\guswl\source\repos\Week10_HomeWork 2\x64\Debug\Week10_HomeWork 2.exe
